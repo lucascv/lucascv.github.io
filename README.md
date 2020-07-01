@@ -9,33 +9,33 @@ O programa conta com mais de 1.500 horas aulas presenciais e online e aborda int
 
 ## Desenvolvimento Web - Introdução 
 
-#### Bloco 3: Introdução - HTML & CSS 
+#### Bloco 3: Introdução - HTML & CSS
 
-<a href="">Projeto - HTML & CSS</a></li>
+<a href="lucascv.github.io/html-css">Projeto - HTML & CSS</a></li>
 
 #### Bloco 5: Projetos JavaScript
 
 <ul>
-<li>Projeto - Meme Generator</li>
-<li>Projeto - Arte com Pixels</li>
-<li>Projeto - Lista de tarefas</li>
+<li><a href="lucascv.github.io/meme-generator">Projeto - Meme Generator</a></li>
+<li><a href="lucascv.github.io/make-me-an-artist">Projeto - Arte com Pixels</a></li>
+<li><a href="lucascv.github.io/todo-list">Projeto - Lista de tarefas</a></li>
 </ul>
 
 ## Desenvolvimento Front-end
 
 #### Bloco 6: Introdução - Front-end
 
-<a>Projeto - Página inicial do Facebook</a>
+<a href="lucascv.github.io/signup-facebook">Projeto - Página inicial do Facebook</a>
 
 
 #### Bloco 7: JavaScript ES6
 
-<a>7.5 - Projeto - JavaScript Testes Unitários</a>
+<a href="https://github.com/lucascv/Trybe/tree/master/Bloco7/Projeto">Projeto - JavaScript Testes Unitários</a>
 
 #### Bloco 8: Javascript Higher Order Functions (HOF's)
 
-<a>Projeto - Zoo functions</a>
+<a href="https://github.com/lucascv/Trybe/tree/master/Bloco8/Projeto">Projeto - Zoo functions</a>
 
 #### Bloco 9: Jest, Javascript assíncrono, callbacks and promises
 
-<a>9.4 - Projeto - Carrinho de compras</a>
+<a href="lucascv.github.io/shopping-cart">Projeto - Carrinho de compras</a>

@@ -1,0 +1,125 @@
+body {
+  background-color: burlywood;
+  font-size: 15px;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+
+header {
+  font-size: 35px;
+  left: 50%;
+  margin-top: 30px;
+  position: absolute;
+  transform: translateX(-50%);
+}
+
+.meme-container {
+  left: 50%;
+  position: absolute;
+  top: 15%;
+  transform: translateX(-50%);
+}
+
+.meme-image-container {
+  background-color: white;
+  border: black solid 1px;
+  bottom: 5%;
+  height: 400px;
+  left: 50%;
+  margin: 15px;
+  position: absolute;
+  transform: translateX(-50%);
+  width: 400px;
+}
+
+.space {
+  margin: 5px;
+}
+
+.meme-text {
+  bottom: 10%;
+  color: white;
+  font-size: 30px;
+  left: 50%;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  text-shadow: 5px 5px 5px black;
+  transform: translateX(-50%);
+}
+
+.meme-image {
+  height: 400px;
+  width: 400px;
+}
+
+.memes-prontos {
+  bottom: 7%;
+  height: 400px;
+  position: absolute;
+  right: 6%;
+  width: 100px;
+}
+
+.meme-1 {
+  height: 24%;
+
+}
+
+.meme-2 {
+  height: 24%;
+
+}
+
+.meme-3 {
+  height: 24%;
+
+}
+
+.meme-4 {
+  height: 24%;
+
+}
+
+.deleta-borda {
+  bottom: -7%;
+  left: 50%;
+  position: absolute;
+  transform: translateX(-50%);
+}
+
+.btn-fire {
+  background-color: red;
+  left: -15%;
+  position: absolute;
+  top: 10%;
+}
+
+.btn-water {
+  background-color: blue;
+  left: -15%;
+  position: absolute;
+  top: 40%;
+  transform: translateX(-20%);
+}
+
+.btn-earth {
+  background-color: green;
+  bottom: 20%;
+  left: -15%;
+  position: absolute;
+  transform: translateX(-20%);
+}
+
+.fire {
+  border: 3px dashed red;
+}
+
+.water {
+  border: 5px double blue;
+}
+
+.earth {
+  border: groove green 6px;
+}

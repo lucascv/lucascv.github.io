@@ -1,0 +1,140 @@
+body {
+  background-image: url("images/fundo-de-folha-de-caderno-alinhado_42852-15.jpg");
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+
+h1 {
+  font-size: 30px;
+  position: absolute;
+  right: 50%;
+  top: 5%;
+  transform: translate(50% , 50%);
+}
+
+p {
+  font-size: 15px;
+  position: absolute;
+  right: 50%;
+  top: 15%;
+  transform: translate(50% , 50%);
+}
+
+.input {
+  position: absolute;
+  right: 50%;
+  top: 25%;
+  transform: translate(50% , 50%);
+}
+
+.lista {
+  height: 50%;
+  position: absolute;
+  right: 60%;
+  top: 10%;
+  transform: translate(50% , 50%);
+  width: 50%;
+}
+
+ol {
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+
+li {
+  margin: 5px;
+}
+
+.setas {
+  height: 30%;
+  position: absolute;
+  right: 20%;
+  top: 40%;
+}
+
+.seta-cima {
+  background-color: midnightblue;
+  border: 2px solid navy;
+  border-radius: 50%;
+  color: white;
+  font-size: 18px;
+  position: absolute;
+}
+
+.seta-baixo {
+  background-color: midnightblue;
+  border: 2px solid navy;
+	border-radius: 50%;
+  color: white;
+  font-size: 18px;
+  position: absolute;
+  top: 60%;
+}
+
+.botoes-limpar {
+  bottom: 5%;
+  left: 30%;
+  position: absolute;
+}
+
+.criar-tarefa {
+  background-color: forestgreen;
+  border: 2px solid limegreen;
+	border-radius: 50%;
+  color: white;
+  font-size: 18px;
+  position: absolute;
+  right: -25%;
+}
+
+.remover-selecionado {
+  background-color: darkred;
+  border: 2px solid firebrick;
+	border-radius: 50%;
+  color: white;
+  font-size: 18px;
+  position: absolute;
+  right: -45%;
+}
+
+.apaga-tudo {
+  background-color: darkred;
+  border: 1px solid firebrick;
+	border-radius: 20px;
+	color: white;
+	font-size: 15px;
+	padding: 5px 15px;
+}
+
+.remover-finalizados {
+  background-color: midnightblue;
+  border: 1px solid navy;
+	border-radius: 20px;
+	color: white;
+	font-size: 15px;
+	padding: 5px 15px;
+}
+
+.salvar-tarefas {
+  background-color: forestgreen;
+  border: 1px solid limegreen;
+	border-radius: 20px;
+	color: white;
+	font-size: 15px;
+	padding: 5px 15px;
+}
+
+button , .item-lista {
+  cursor: pointer;
+}
+
+.selected {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through;
+}

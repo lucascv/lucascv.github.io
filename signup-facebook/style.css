@@ -1,0 +1,174 @@
+body {
+  background-color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.top-bar {
+  background-color: #3b5998;
+  display: flex;
+  height: 80%;
+  justify-content: space-around;
+  width: 100%;
+}
+
+header section {
+  display: flex;
+  justify-content: space-around;
+  max-height: 100%;
+  max-width: 50%;
+}
+
+.esquerda {
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+}
+
+.direita {
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+}
+
+.btn {
+  align-self: center;
+}
+
+.button {
+  background-color: #3b5998;
+  border: 1px solid #2f477a;
+  color: white;
+  cursor: pointer;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.7em;
+  margin-top: 12px;
+  padding: 5px 10px;
+  text-decoration: none;
+  vertical-align: middle;
+  width: 100%;
+}
+
+.button:hover {
+  background: #192e57;
+  border-top-color: #192e57;
+  color: #ccc;
+}
+
+.button:active {
+  background: #1b435e;
+  border-top-color: #1b435e;
+}
+
+.facebook-logo {
+  width: 15%;
+}
+
+.user-email-phone {
+  height: 20%;
+  margin-top: 12px;
+  width: 100%;
+}
+
+.user-email-phone-label {
+  color: white;
+  font-size: 0.8em;
+  margin-top: 15px;
+  max-height: 10%;
+  width: 100%;
+}
+
+.recovery {
+  color: white;
+  cursor: pointer;
+  font-size: 0.7em;
+  margin: 2px;
+  opacity: 0.7;
+}
+
+.middle {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.div-esquerda {
+  color: #1b435e;
+  height: 100%;
+  margin-left: 60px;
+  padding: 35px;
+  width: 35%;
+}
+
+h2 {
+  font-size: 1.3em;
+}
+
+.div-direita {
+  height: 100%;
+  padding: 35px;
+  width: 35%;
+}
+
+.facebook-networking {
+  height: 50%;
+  max-width: 100%;
+}
+
+.form-row {
+  display: flex;
+  width: 100%;
+}
+
+.email-senha {
+  margin-top: 8px;
+  width: 96%;
+}
+
+p {
+  color: darkgrey;
+}
+
+.interrogacao {
+  cursor: pointer;
+  width: 4%;
+}
+
+em {
+  color: blue;
+}
+
+.btn-submit {
+  background: #479152;
+  border-radius: 4px;
+  border-top: 1px solid #257833;
+  color: white;
+  cursor: pointer;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  padding: 8.5px 17px;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+.btn-submit:hover {
+  background: #277d35;
+  border-top-color: #277d35;
+  color: white;
+}
+
+.btn-submit:active {
+  background: #257833;
+  border-top-color: #257833;
+}
+
+.nome {
+  margin-right: 15px;
+}
+
+.genero {
+  cursor: pointer;
+}
