@@ -1,0 +1,70 @@
+body {
+    margin: 50px;
+    background-color: yellow;
+    color: blue;
+    font-family: 'Cambria', 'Cochin', 'Georgia', 'Times', 'Times New Roman', serif;
+}
+
+#cabecalho {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: white;
+    color: #34A853;
+    width: 100%;
+    height: 22%;
+    z-index: auto;
+}
+
+#cbf {
+    position: absolute;
+    top: 8px;
+    left: 25px;
+}
+
+#indice {
+    position: absolute;
+    top: 8px;
+    right: 20px;
+}
+
+#title {
+    text-align: center;
+}
+
+#news {
+    margin: 100px 0px 0px 0px;
+    padding: 20px 0px;
+}
+
+#medals{
+    margin: 100px 0px 0px 0px;
+    padding: 20px 0px;
+}
+
+#bestscoreboards {
+    margin: 100px 0px 0px 0px;
+    padding: 20px 0px;
+}
+
+#cast {
+    margin: 100px 0px 0px 0px;
+    padding: 20px 0px;
+}
+
+#rodape {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color: white;
+    color: black;
+    width: 100%;
+    height: 5%;
+    text-align: center;
+}
+
+.player-container {
+    display: inline-block;
+    margin: 0px 20px;
+    padding: 0px 20px;
+}
