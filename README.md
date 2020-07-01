@@ -25,7 +25,7 @@ O programa conta com mais de 1.500 horas aulas presenciais e online e aborda int
 
 #### Bloco 6: Introdução - Front-end
 
-<a href="lucascv.github.io/signup-facebook">Projeto - Página inicial do Facebook</a>
+<a href="/signup-facebook">Projeto - Página inicial do Facebook</a>
 
 
 #### Bloco 7: JavaScript ES6
