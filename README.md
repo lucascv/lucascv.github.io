@@ -11,31 +11,31 @@ O programa conta com mais de 1.500 horas aulas presenciais e online e aborda int
 
 #### Bloco 3: Introdução - HTML & CSS
 
-[Projeto - HTML & CSS](lucascv.github.io/html-css)
+<a href="lucascv.github.io/html-css">Projeto - HTML & CSS</a></li>
 
 #### Bloco 5: Projetos JavaScript
 
 <ul>
-<li>[Projeto - Meme Generator](lucascv.github.io/meme-generator)</li>
-<li>[Projeto - Arte com Pixels](lucascv.github.io/make-me-an-artist)</li>
-<li>[Projeto - Lista de tarefas](lucascv.github.io/todo-list)</li>
+<li><a href="lucascv.github.io/meme-generator">Projeto - Meme Generator</a></li>
+<li><a href="lucascv.github.io/make-me-an-artist">Projeto - Arte com Pixels</a></li>
+<li><a href="lucascv.github.io/todo-list">Projeto - Lista de tarefas</a></li>
 </ul>
 
 ## Desenvolvimento Front-end
 
 #### Bloco 6: Introdução - Front-end
 
-[Projeto - Página inicial do Facebook](lucascv.github.io/signup-facebook)
+<a href="lucascv.github.io/signup-facebook">Projeto - Página inicial do Facebook</a>
 
 
 #### Bloco 7: JavaScript ES6
 
-[Projeto - JavaScript Testes Unitários](https://github.com/lucascv/Trybe/tree/master/Bloco7/Projeto)
+<a href="https://github.com/lucascv/Trybe/tree/master/Bloco7/Projeto">Projeto - JavaScript Testes Unitários</a>
 
 #### Bloco 8: Javascript Higher Order Functions (HOF's)
 
-[Projeto - Zoo functions](https://github.com/lucascv/Trybe/tree/master/Bloco8/Projeto)
+<a href="https://github.com/lucascv/Trybe/tree/master/Bloco8/Projeto">Projeto - Zoo functions</a>
 
 #### Bloco 9: Jest, Javascript assíncrono, callbacks and promises
 
-[Projeto - Carrinho de compras](lucascv.github.io/shopping-cart)
+<a href="lucascv.github.io/shopping-cart">Projeto - Carrinho de compras</a>
